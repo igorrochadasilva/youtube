@@ -1,0 +1,18 @@
+.scrollspySite {
+  position: relative;
+  overflow: auto;
+  height: 345px; }
+
+  .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    color: #fff;
+    background-color: #8A2BE2;
+}
+
+a {
+  color: #8A2BE2;
+  text-decoration: none;
+  background-color: transparent;
+  -webkit-text-decoration-skip: objects;
+}
+
+/*# sourceMappingURL=style.css.map */
